@@ -1,0 +1,6 @@
+[submodule "remoteControl/remoteControl/ESP32Servo"]
+	path = remoteControl/remoteControl/ESP32Servo
+	url = https://github.com/asazuke-kyuuri/remoteControl.git
+[submodule "remoteControl/remoteControl/PS4-esp32"]
+	path = remoteControl/remoteControl/PS4-esp32
+	url = https://github.com/asazuke-kyuuri/remoteControl.git
